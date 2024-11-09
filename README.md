@@ -2,8 +2,8 @@
 Creating portfolio using go and docker
 
 # How to run the Go application:
-1. git clone https://github.com/sojoudian/CLO2003_fall24.git
-2. cd CLO2003_fall24/Week10
+1. git clone https://github.com/Chaudhari-Ankita/Week10.git
+2. cd Chaudhari-Ankita/Week10
 3. go run main.go
 4. Add, commit and push the changes
 
